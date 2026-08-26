@@ -1,0 +1,16 @@
+StudyingWithYou - verificacao da Etapa 6
+[APROVADO] cadastro e autenticacao de usuario
+[APROVADO] senha incorreta e recusada
+[APROVADO] e-mail duplicado e recusado
+[APROVADO] disciplinas sao cadastradas e ordenadas
+[APROVADO] nome de disciplina duplicado e recusado
+[APROVADO] atividade e cadastrada
+[APROVADO] data de entrega no passado e recusada
+[APROVADO] cronograma filtra e ordena atividades
+[APROVADO] atividade e editada
+[APROVADO] atividade pode ser concluida e reaberta
+[APROVADO] dashboard resume os dados
+[APROVADO] disciplina desativada nao recebe atividade
+[APROVADO] atividade e excluida
+
+Resultado: 13/13 testes aprovados.

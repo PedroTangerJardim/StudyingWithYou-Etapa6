@@ -1,0 +1,6 @@
+2a4b969 fix: elimina avisos de serializacao das excecoes
+e9b3a1c test: adiciona verificacoes no metodo main
+f8cf931 feat: adiciona persistencia JDBC e banco MySQL
+9b94508 feat: implementa servicos e injecao de dependencias
+c7c572d feat: separa modelos e contratos do dominio
+651faf4 chore: cria estrutura e requisitos do projeto
