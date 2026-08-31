@@ -1,0 +1,25 @@
+STUDYINGWITHYOU - EVIDENCIA DE VERSIONAMENTO DA ETAPA 7
+
+Repositorio publico:
+https://github.com/PedroTangerJardim/StudyingWithYou-Etapa6
+
+Branch: main
+Data da verificacao: 31/08/2026
+
+Commit local consolidado:
+21ea0ed test: adiciona projeto JUnit da etapa 7
+
+Commits publicados no GitHub:
+31e6c6d test: cobre calculo do dashboard
+991d683 test: cobre atraso e status da atividade
+8e571d9 test: cobre regras do servico de atividades
+9394b6b refactor: extrai calculo dos indicadores
+71325a3 docs: adiciona plano basico de testes
+62d31ba refactor: separa calculo do dashboard
+7801504 chore: atualiza identificacao da etapa 7
+ce0f0a5 test: configura JUnit Jupiter e Surefire
+a20432b chore: adiciona acao de testes no NetBeans
+71d27b5 docs: atualiza instrucoes da etapa 7
+
+Os tres arquivos de teste JUnit, a configuracao Maven e o plano basico foram
+publicados no mesmo repositorio utilizado na Etapa 6.
