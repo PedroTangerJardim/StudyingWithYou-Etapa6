@@ -8,7 +8,7 @@ public final class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("StudyingWithYou - verificacao da Etapa 6");
+        System.out.println("StudyingWithYou - verificacao da Etapa 7");
         new TestesAplicacao().executar();
     }
 }
